@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abboskhonovv
+- 👋 Hi, I’m A'zamkhon
 - 👀 I’m interested in ...ride a horse 
 - 🌱 I’m currently learning ...c++ and python 
 - 💞️ I’m looking to collaborate on ...
