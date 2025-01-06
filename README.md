@@ -9,3 +9,5 @@
 ## Other tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,postgresql,sqlite,mysql,vscode,pycharm,postman,notion,)](https://skillicons.dev)
 
+
+<a href="https://github.com/azamkhonabboskhonov">
